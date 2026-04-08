@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "MultiSHAP"
+message: "If you use this software, please cite the repository and associated paper once available."
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Zhanliang Aaron"
+repository-code: "https://github.com/WGLab/MultiSHAP"
+license: "MIT"
+version: "0.1.0"
+date-released: 2026-04-08
+abstract: >-
+  MultiSHAP is research software for analyzing cross-modal interactions in
+  vision-language models using Shapley-style interaction analysis.
